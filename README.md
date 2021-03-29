@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, my name is Eduardo Angelo Simon! I am Brazilian, 19 years old, currently studying Information Systems, and I am working to become a well known and qualified full-stack programmer. I am searching for opportunities inside and outside Brazil, with the purpose of acquiring knowledge and professional experience.
 
 <!--
 **eduardoangelosimon/eduardoangelosimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
